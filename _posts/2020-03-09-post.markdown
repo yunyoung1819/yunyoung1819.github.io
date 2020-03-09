@@ -3,7 +3,7 @@ layout: post
 title:  "React Hook 개요"
 date:   2020-03-09 
 ---
-## Hook 개요
+
 - React 16.8에 새로 추가된 기능
 - class를 작성하지 않고도 state와 다른 react의 기능들을 사용할 수 있게 해준다.
 
